@@ -1,7 +1,16 @@
-body{
+body {
     background-image: url(amazonia.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
-img{
+
+img {
     width: 200px;
     height: 200px;
+}
+
+h1 {
+    color: rgb(25, 151, 25);
 }
