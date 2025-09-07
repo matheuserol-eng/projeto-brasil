@@ -22,6 +22,7 @@ form {
         height: 200px;
     }
 } 
+
 .flex-container > div {
   background-color: #f1f1f1;
   width: 100px;
